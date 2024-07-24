@@ -1,4 +1,4 @@
-Visit **[sustainable-energy-storage-recycling.github.io](https://sustainable-energy-storage-recycling.github.io)** 🚀
+Visit **[sustainable-energy-storage-recycling.github.io/Sustainable-Energy-Storage-Recycling.github](https://sustainable-energy-storage-recycling.github.io/Sustainable-Energy-Storage-Recycling.github)** 🚀
 
 <h1 align="center">Lab Website Template</h1>
 <p align="center">
