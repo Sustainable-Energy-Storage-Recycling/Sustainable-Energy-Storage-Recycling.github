@@ -1,1 +1,1 @@
-Sitemap: https://greenelab.github.io/lab-website-template/sitemap.xml
+Sitemap: https://sustainable-energy-storage-recycling.github.io/sitemap.xml
